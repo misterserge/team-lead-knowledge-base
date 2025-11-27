@@ -8,7 +8,7 @@
 
 ## Менеджмент
 
-_Скоро будет..._
+- [DoR / DoD](./management/DoR_DoD.md) — Definition of Ready и Definition of Done
 
 ## Технические знания
 
