@@ -11,6 +11,7 @@
 ## Технические знания
 
 - [RDBMS](./technical_aknowlegments/rdbms.md) — реляционные базы данных
-- [RDBMS](./technical_aknowlegments/pg.md) — PostgreSQL — ключевые функции
+- [RDBMS](./technical_aknowlegments/pg.md) — PostgreSQL — ключевые 
+- [RDBMS](./technical_aknowlegments/sql_join.md) — JOIN, UNION и WITH в PostgreSQL
 
 _Скоро будет..._
