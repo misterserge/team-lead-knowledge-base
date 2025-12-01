@@ -13,5 +13,6 @@
 - [RDBMS](./technical_aknowlegments/rdbms.md) — реляционные базы данных
 - [RDBMS](./technical_aknowlegments/pg.md) — PostgreSQL — ключевые 
 - [RDBMS](./technical_aknowlegments/sql_join.md) — JOIN, UNION и WITH в PostgreSQL
+- [RDBMS](./technical_aknowlegments/test_types.md) — Виды автоматизированных тестов
 
 _Скоро будет..._
