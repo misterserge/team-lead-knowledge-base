@@ -4,6 +4,9 @@
 
 ## Системный дизайн
 
+- [HLD](./system_design/HLD.md) — High-Level Design
+- [C4-модель](./system_design/c4_model.md) — визуализация архитектуры
+
 ## Менеджмент
 
 - [DoR / DoD](./management/DoR_DoD.md) — Definition of Ready и Definition of Done
