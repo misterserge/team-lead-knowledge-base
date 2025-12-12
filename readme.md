@@ -25,5 +25,6 @@
 - [RDBMS](./technical_aknowlegments/sql_join.md) — JOIN, UNION и WITH в PostgreSQL
 - [RDBMS](./technical_aknowlegments/test_types.md) — Виды автоматизированных тестов
 - [Core Web Vitals](./technical_aknowlegments/metrics.md) — LCP, FID, CLS, TTI, TBT — метрики производительности фронтенда
+- [React Hydration](./technical_aknowlegments/react/hydratation.md) — гидратация в React, SSR и оптимизация TTI
 
 _Скоро будет..._
